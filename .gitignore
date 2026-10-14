@@ -45,3 +45,8 @@ service_account*.json
 *.key
 id_rsa*
 id_ed25519*
+
+# Curated pipeline inputs (hand-made, needed to reproduce)
+!chemical_kg/electrolyte_solvents_additives.csv
+!chemical_kg/manual_synonyms.csv
+!chemical_kg/manual_blocklist.csv

@@ -92,7 +92,8 @@ The judges run at temperature 0 with seed 42. Extraction runs at temperature 0 a
 
 | Path | Contents |
 |---|---|
-| `chemical_kg/` | Candidate universe, synonym index, Jchem, Japp, cross-check, candidate profiles, commentary (see `chemical_kg/README.md`) |
+| `chemical_kg/` | Candidate universe, synonym index, Jchem, Japp, cross-check, candidate profiles, commentary |
+| `chemical_kg/*.csv` | Curated inputs: seed solvents/additives, manual synonym additions, blocklisted synonyms |
 | `battery_kg/` | LLM triple extraction and triple-quality evaluation |
 | `battery_ontology_analysis/` | Battery-KG canonicalisation and link-prediction analysis |
 | `salt_analysis_output/` | Salt-KG summary reports and figures |

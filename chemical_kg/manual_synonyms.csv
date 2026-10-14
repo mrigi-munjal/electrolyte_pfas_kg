@@ -1,0 +1,9 @@
+inchikey,synonym,note
+QSZMZKBZAYQGRS-UHFFFAOYSA-N,LiN(CF3SO2)2,MatKG writes the TFSI formula with CF3 before SO2
+MCVFFRWZNYZUIJ-UHFFFAOYSA-M,LiCF3SO3,MatKG formula ordering for lithium triflate
+MCVFFRWZNYZUIJ-UHFFFAOYSA-M,LiTf,common MatKG abbreviation for lithium triflate
+HSZCZNFXUDYRKD-UHFFFAOYSA-M,LiI,PubChem only lists the all-caps LII which fails the cased short-match rule
+MEDDCIKGDMDORY-UHFFFAOYSA-N,LiDFOB,PubChem spells it LiODFB; MatKG uses LiDFOB
+QSZMZKBZAYQGRS-UHFFFAOYSA-N,LiNTf2,Tf2N/NTf2 naming convention for the TFSI anion
+QSZMZKBZAYQGRS-UHFFFAOYSA-N,LiTFSA,TFSA (amide) naming common in Japanese literature
+QSZMZKBZAYQGRS-UHFFFAOYSA-N,LiTFSi,casing variant seen in extracted application KG

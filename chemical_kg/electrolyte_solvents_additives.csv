@@ -1,0 +1,36 @@
+abbrev,name,smiles,category,family
+EC,ethylene carbonate,C1COC(=O)O1,solvent,cyclic_carbonate
+PC,propylene carbonate,CC1COC(=O)O1,solvent,cyclic_carbonate
+DMC,dimethyl carbonate,COC(=O)OC,solvent,linear_carbonate
+DEC,diethyl carbonate,CCOC(=O)OCC,solvent,linear_carbonate
+EMC,ethyl methyl carbonate,CCOC(=O)OC,solvent,linear_carbonate
+FEC,fluoroethylene carbonate,C1C(F)OC(=O)O1,additive,cyclic_carbonate
+VC,vinylene carbonate,C1=COC(=O)O1,additive,cyclic_carbonate
+VEC,vinyl ethylene carbonate,C=CC1COC(=O)O1,additive,cyclic_carbonate
+DME,"1,2-dimethoxyethane (glyme)",COCCOC,solvent,ether
+DOL,"1,3-dioxolane",C1COCO1,solvent,ether
+THF,tetrahydrofuran,C1CCOC1,solvent,ether
+2-MeTHF,2-methyltetrahydrofuran,CC1CCCO1,solvent,ether
+G2,diglyme,COCCOCCOC,solvent,ether
+G3,triglyme,COCCOCCOCCOC,solvent,ether
+G4,tetraglyme (TEGDME),COCCOCCOCCOCCOC,solvent,ether
+DEE,diethyl ether,CCOCC,solvent,ether
+TTE,"1,1,2,2-tetrafluoroethyl 2,2,3,3-tetrafluoropropyl ether",FC(F)C(F)(F)OCC(F)(F)C(F)F,diluent,hydrofluoroether
+BTFE,"bis(2,2,2-trifluoroethyl) ether",FC(F)(F)COCC(F)(F)F,diluent,hydrofluoroether
+AN,acetonitrile,CC#N,solvent,nitrile
+SN,succinonitrile,N#CCCC#N,additive,nitrile
+ADN,adiponitrile,N#CCCCCC#N,additive,nitrile
+SL,sulfolane,C1CCS(=O)(=O)C1,solvent,sulfone
+EMS,ethyl methyl sulfone,CCS(C)(=O)=O,solvent,sulfone
+DMSO,dimethyl sulfoxide,CS(C)=O,solvent,sulfoxide
+TMP,trimethyl phosphate,COP(=O)(OC)OC,solvent,organophosphate
+TEP,triethyl phosphate,CCOP(=O)(OCC)OCC,solvent,organophosphate
+PS,"1,3-propane sultone",O=S1(=O)CCCO1,additive,sultone
+PES,"prop-1-ene-1,3-sultone",O=S1(=O)OCC=C1,additive,sultone
+ES,ethylene sulfite,C1COS(=O)O1,additive,sulfite
+DTD,"ethylene sulfate (1,3,2-dioxathiolane 2,2-dioxide)",C1COS(=O)(=O)O1,additive,sulfate_ester
+GBL,gamma-butyrolactone,O=C1CCCO1,solvent,lactone
+EA,ethyl acetate,CCOC(C)=O,solvent,ester
+MA,methyl acetate,COC(C)=O,solvent,ester
+BP,biphenyl,c1ccc(-c2ccccc2)cc1,additive,aromatic
+CHB,cyclohexylbenzene,C1CCC(CC1)c1ccccc1,additive,aromatic
