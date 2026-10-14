@@ -519,11 +519,3 @@ Needs rdkit, requests, pandas; login-node friendly. Editable inputs:
 | `candidate_claims.csv`, `candidate_evidence.csv`, `candidate_profiles_report.txt` | per-claim DOI-attributed candidate profiles (§8, script 9) |
 | `candidate_commentary_report.txt`, `candidate_commentary.json` | LLM substitution commentary with DOI citations (§8, script 10) |
 | `jchem_normalized_ranking.csv`, `jchem_normalized_report.txt` | size-corrected Jchem companion ranking (§10, script 11) |
-
-## Next steps
-
-- Optional Jaccard-side improvements currently *not* applied: token-bag
-  (order-free) matching tier, plural stemming, near-miss review report,
-  polarity-aware neighbor canonicalization. (Ceiling-normalized scores
-  now exist as the §10 companion analysis; the primary ranking is
-  unchanged.)
