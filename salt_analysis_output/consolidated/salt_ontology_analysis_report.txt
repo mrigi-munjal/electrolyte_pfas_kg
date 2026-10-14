@@ -1,0 +1,62 @@
+SALT ONTOLOGY EXTRACTION ANALYSIS REPORT
+==================================================
+Generated: 2025-08-13 19:11:05
+
+BASIC STATISTICS
+--------------------
+Total entries: 46,602
+Successfully parsed: 46,601
+Success rate: 100.0%
+
+SALT ANALYSIS
+--------------------
+Unique salts identified: 360
+Total salt mentions: 7,727
+Average mentions per salt: 21.5
+
+TOP 10 MOST FREQUENT SALTS
+------------------------------
+ 1. LiPF6: 2,663 mentions
+ 2. LiTFSI: 2,176 mentions
+ 3. LiFSI: 439 mentions
+ 4. LiClO4: 300 mentions
+ 5. LiBOB: 208 mentions
+ 6. LiBF4: 152 mentions
+ 7. LiNO3: 125 mentions
+ 8. Li2SO4: 89 mentions
+ 9. LiF: 81 mentions
+10. LiOTF: 60 mentions
+
+RELATIONSHIP ANALYSIS
+--------------------
+Total relationships: 27,628
+Unique relationship types: 13
+
+RELATIONSHIP TYPES (by frequency)
+-----------------------------------
+ 1. CO OCCURS WITH: 6,451 instances
+ 2. DISSOLVED IN: 4,855 instances
+ 3. HAS CONCENTRATION IN ELECTROLYTE: 4,401 instances
+ 4. USED IN: 4,245 instances
+ 5. HAS PROPERTY: 2,891 instances
+ 6. AFFECTS PROPERTY OF: 1,986 instances
+ 7. HAS ROLE: 1,416 instances
+ 8. STABLE IN WINDOW: 718 instances
+ 9. OPERATING TEMP RANGE: 523 instances
+10. HAS CHEMICAL STRUCTURE: 138 instances
+11. STORED IN: 2 instances
+12. STORED UNDER: 1 instances
+13. HAS CONCENTRATION: 1 instances
+
+COMPLEX SALTS (4+ relationships)
+-----------------------------------
+ 1. LiPF6: 8830 relationships
+ 2. LiTFSI: 8235 relationships
+ 3. LiFSI: 1828 relationships
+ 4. LiClO4: 997 relationships
+ 5. LiBOB: 821 relationships
+ 6. LiBF4: 564 relationships
+ 7. LiNO3: 503 relationships
+ 8. Li2SO4: 309 relationships
+ 9. LiF: 292 relationships
+10. LiODFB: 276 relationships

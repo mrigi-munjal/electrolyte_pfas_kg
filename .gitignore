@@ -1,0 +1,47 @@
+# Data outputs (regenerable; not distributed with the code)
+*.csv
+*.json
+*.xlsx
+*.numbers
+output/
+evaluation_output/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*_env*/
+
+# Secrets — never commit keys
+.env
+.env.*
+*.env
+env.sh
+envrc
+.envrc
+secrets.sh
+setenv.sh
+export_keys.sh
+
+.qiskit/
+qiskit-ibm.json
+qiskit-ibm-runtime.json
+*.crn
+
+*token*
+*secret*
+*credential*
+*password*
+*apikey*
+*api_key*
+*_key.json
+*-key.json
+service_account*.json
+
+.aws/
+.ibmcloud/
+*.pem
+*.key
+id_rsa*
+id_ed25519*

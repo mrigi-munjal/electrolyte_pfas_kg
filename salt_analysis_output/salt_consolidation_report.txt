@@ -1,0 +1,148 @@
+SALT CONSOLIDATION REPORT
+========================================
+Generated: 2025-08-13 19:11:05
+
+Total canonical salts with variants: 6
+Total original variants consolidated: 121
+
+CONSOLIDATION DETAILS
+------------------------------
+
+Canonical: LiOTF
+Variants (59):
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+  - LiCF3SO3
+
+Canonical: Lithium salt
+Variants (30):
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salt
+  - Li salts
+  - Li salts
+  - Li salts
+  - Li salts
+  - Li salts
+  - Li salts
+  - Li salts
+  - Li salts
+  - Li salts
+  - Li-salt
+  - Li-salt
+  - Li-salts
+  - lithium salt
+  - lithium salt
+  - lithium salt
+  - lithium salt
+  - lithium salt
+  - lithium salts
+
+Canonical: LiTFSI
+Variants (29):
+  - LiN(CF3SO2)2
+  - LiN(CF3SO2)2
+  - LiN(CF3SO2)2
+  - LiN(SO2CF3)2
+  - LiN(SO2CF3)2
+  - LiN(SO2CF3)2
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - LiTFSA
+  - Li[NTf2]
+  - Li[NTf2]
+  - Li[NTf2]
+  - Li[NTf2]
+  - Lithiumbis(trifluoromethanesulfonyl)amide
+
+Canonical: Electrolyte salt
+Variants (1):
+  - electrolyte salt
+
+Canonical: LiBOB
+Variants (1):
+  - LiBoB
+
+Canonical: LiFSI
+Variants (1):
+  - LiN(SO2F)2
