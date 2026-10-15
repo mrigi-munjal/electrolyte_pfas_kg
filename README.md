@@ -97,11 +97,28 @@ The judges run at temperature 0 with seed 42. Extraction runs at temperature 0 a
 | `battery_kg/` | LLM triple extraction and triple-quality evaluation |
 | `battery_ontology_analysis/` | Battery-KG canonicalisation and link-prediction analysis |
 | `salt_analysis_output/` | Salt-KG summary reports and figures |
+| `data/` | Extracted knowledge graphs (see [Data](#data)) |
 | `env/requirements.txt` | Frozen package versions |
 
 The root-level `jaccard_calculation*.py`, `battery_kg/jaccard_calculation_application_kg.py`
 and `battery_kg/llm_querying_of_candidates.py` are earlier versions, kept
 for provenance. They are superseded by the scripts above.
+
+## Data
+
+The extracted knowledge graphs are in `data/` (gzipped CSV). Each triple
+carries the DOI of its source paper, with a paragraph suffix
+(e.g. `…/j.jechem.2021.05.027_p2_8`).
+
+| File | Rows | Contents |
+|---|---|---|
+| `battery_kg_triples.csv.gz` | 316,846 | Battery-system KG as extracted (5 rows have a blank object) |
+| `battery_kg_triples_canonical.csv.gz` | 231,658 | Battery-system KG after canonicalisation |
+| `salt_kg_triples_canonical.csv.gz` | 27,993 | Salt KG with canonical subject/relation/object names (input to Japp) |
+
+Source-paragraph text is not redistributed, because it is copyrighted
+publisher content. The scripts read the full versions of these files,
+which also contain the paragraph text.
 
 ## Setup
 
