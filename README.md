@@ -156,13 +156,6 @@ python battery_kg/analyze_human_agreement.py
 Outputs are written to `chemical_kg/output/`, `evaluation_output/` and
 alongside the inputs.
 
-## Limitations
-
-- **MatKG ubiquity bias.** Jchem favours compounds that are common in any role, such as additives and SEI components. It under-scores rare but relevant salts, such as LiFSI and LiBOB. Japp compensates.
-- **Low absolute Japp scores.** Most salt-KG neighbours are paper-specific phrases, so absolute Japp scores are structurally low. Use ranks.
-- **Precision only.** Triple quality was measured for precision only; recall is unmeasured.
-- **One human annotator.** The human subsample was scored by a single annotator.
-
 ## License
 
 MIT; see `LICENSE`.
